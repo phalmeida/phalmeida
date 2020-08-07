@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **phalmeida/phalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Philipe Allan Almeida
+
+👨🏿‍💻 Entusiasta e apaixonado por tecnologia, sou desenvolvedor de software com mais de 9 anos de experiência na área. 👨🏿‍💻
+
+[![linkedin](https://user-images.githubusercontent.com/56324728/87433331-91935a00-c5bf-11ea-8f60-63cc95788ee6.png)](https://www.linkedin.com/in/philipeallanalmeida/)
